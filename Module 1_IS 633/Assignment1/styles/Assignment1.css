@@ -1,5 +1,5 @@
-#section1{visibility: hidden; position: absolute;height: 75%; width: 600%; overflow: scroll; background-color: #CCFFFF;}
-#section2{visibility: hidden; position: absolute;height: 75%; width: 600%; overflow: scroll; background-color: #99FFFF;}
+#section1{visibility: hidden; position: absolute;height: 75px; width: 600px; overflow: scroll; background-color: #CCFFFF;}
+#section2{visibility: hidden; position: absolute;height: 75px; width: 600px; overflow: scroll; background-color: #99FFFF;}
 h1{font-family: cursive; text-align: center;}
 h2{font-family: Times New Roman; text-align: center;}
 footer{font-family: Lucida Grande; text-align: center;}
