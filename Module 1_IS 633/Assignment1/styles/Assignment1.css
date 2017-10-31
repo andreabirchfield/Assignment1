@@ -2,4 +2,4 @@
 #section2{font-family: Verdana; visibility: hidden; position: absolute;height: 600px; width: 600px; overflow: scroll; background-color: #F0E68C;}
 h1{font-family: cursive; text-align: center;}
 h2{font-family: Times New Roman; text-align: center;}
-footer{position: fixed; bottom: 0;  right: 0; left: 0; height: 70px; font-family: Lucida Grande; text-align: center;}
+footer{position: absolute; bottom: 0;  right: 0; left: 0; height: 70px; font-family: Lucida Grande; text-align: center;}
